@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sacha Lapins"
   avatar           : "profile.png"
-  bio              : 'Volcano Seismology <i class="fas fa-star" aria-hidden="true" style="font-size: 50%; vertical-align: 55%"></i> Machine Learning <i class="fas fa-star" aria-hidden="true" style="font-size: 50%; vertical-align: 55%"></i> Signal Processing <br><br>PhD researcher at the<br><a style="color: black;" href="https://www.bristol.ac.uk/earthsciences/">School of Earth Sciences</a>,<br><a style="color: black;" href="https://www.bristol.ac.uk/">University of Bristol</a>'
+  bio              : 'Volcano Seismology <i class="fas fa-star" aria-hidden="true" style="font-size: 50%; vertical-align: 50%"></i> Machine Learning <i class="fas fa-star" aria-hidden="true" style="font-size: 50%; vertical-align: 50%"></i> Signal Processing <br><br>PhD researcher at the<br><a style="color: black;" href="https://www.bristol.ac.uk/earthsciences/">School of Earth Sciences</a>,<br><a style="color: black;" href="https://www.bristol.ac.uk/">University of Bristol</a>'
   location         : "Bristol, UK"
   employer         : 
   pubmed           : 
