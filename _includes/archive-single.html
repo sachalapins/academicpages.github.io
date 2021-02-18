@@ -65,12 +65,15 @@
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       {% endif %}
+      {% if post.preprint %}
+        <a href="{{ post.preprint }}"><i class="fas fa-fw fa-unlock-alt zoom" aria-hidden="true"></i></a>
+      {% endif %}
       {% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.data %}
         <a href="{{ post.data }}"><i class="fas fa-fw fa-database zoom" aria-hidden="true"></i></a>
-      {% endif %}        
+      {% endif %}                
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}

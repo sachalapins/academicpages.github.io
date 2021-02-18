@@ -54,6 +54,9 @@ layout: default
         {% if page.paperurl %}
           <a href="{{ page.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
         {% endif %}
+        {% if post.preprint %}
+          <a href="{{ post.preprint }}"><i class="fas fa-fw fa-unlock-alt zoom" aria-hidden="true"></i></a>
+        {% endif %}
         {% if page.code %}
           <a href="{{ page.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
         {% endif %}
